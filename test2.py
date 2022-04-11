@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.write('ي الهدر')
+st.write('رفيقي ي الهدرررررررر')
