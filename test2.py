@@ -4,4 +4,4 @@ st.write('divine player lol :')
 
 
 
-    st.write('Goodbye')
+st.write('Goodbye')
