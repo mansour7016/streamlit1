@@ -5,3 +5,9 @@ st.write('divine player lol :')
 
 
 st.write('Goodbye')
+
+name = st.text_input('Name')
+if not name:
+  st.warning('Please input a name.')
+  st.stop()
+st.success('Thank you for inputting a name.')
