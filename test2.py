@@ -11,3 +11,8 @@ if not name:
   st.warning('Please input a name.')
   st.stop()
 st.success('Thank you for inputting a name.')
+
+from PIL import Image
+image = Image.open('download.gif')
+
+st.image(image, caption='Sunrise by the mountains')
