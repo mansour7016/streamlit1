@@ -12,7 +12,5 @@ if not name:
   st.stop()
 st.success('Thank you for inputting a name.')
 
-from PIL import Image
-image = Image.open('sunrise.jpg')
 
 st.markdown("![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)")
