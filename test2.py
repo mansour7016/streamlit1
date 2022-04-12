@@ -13,4 +13,4 @@ if not name:
 st.success('Thank you for inputting a name.')
 
 
-st.markdown("![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)")
+st.markdown("![Alt Text](https://external-preview.redd.it/1wo-03XQUXf9UbS40C_OFt9QVV7y5vDZxhfX2_EmevY.gif?format=mp4&s=a677f5c4f3cd7c0da5b12fa0a56dc89de5fde651)")
