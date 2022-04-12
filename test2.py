@@ -1,16 +1,31 @@
 import streamlit as st
 
+
+
+
+st.header('المرجله تبي')
+
 st.write('divine player lol :')
 
 
 
-st.write('Goodbye')
+st.write('من افضل لاعب بالعالم')
 
-name = st.text_input('Name')
-if not name:
-  st.warning('Please input a name.')
-  st.stop()
-st.success('Thank you for inputting a name.')
+benz1 = st.checkbox('ابو ابراهيم')
+benz2 = st.checkbox('البنز')
+benz3 = st.checkbox('الحكومه')
+
+if benz1:
+     st.write("Great! Here's some more 🍦")
+
+if benz2: 
+     st.write("Okay, here's some coffee ☕")
+
+if benz3:
+     
+     st.markdown("![Alt Text](https://media.giphy.com/media/AZ72S63Skv1306yyxQ/giphy.gif)")
 
 
-st.markdown("![Alt Text](https://media.giphy.com/media/ie4fEHT4krdDO/giphy.gif)")
+
+
+
