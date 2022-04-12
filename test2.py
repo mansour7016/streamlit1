@@ -16,15 +16,14 @@ benz2 = st.checkbox('البنز')
 benz3 = st.checkbox('الحكومه')
 
 if benz1:
-     st.write("Great! Here's some more 🍦")
+     st.markdown("![Alt Text](https://media.giphy.com/media/4AMPEcnNSDhfzZE3EV/giphy.gif)")
 
 if benz2: 
-     st.write("Okay, here's some coffee ☕")
+     st.markdown("![Alt Text](https://media.giphy.com/media/12WxFiMHBUl1RK/giphy.gif)")
 
 if benz3:
      
      st.markdown("![Alt Text](https://media.giphy.com/media/AZ72S63Skv1306yyxQ/giphy.gif)")
-
 
 
 
