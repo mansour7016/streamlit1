@@ -5,7 +5,7 @@ import streamlit as st
 
 st.header('المرجله تبي')
 
-st.write('divine player lol :')
+st.write('ابوعج خرق :')
 
 
 
