@@ -13,6 +13,6 @@ if not name:
 st.success('Thank you for inputting a name.')
 
 from PIL import Image
-image = Image.open('download.gif')
+image = Image.open('sunrise.jpg')
 
 st.image(image, caption='Sunrise by the mountains')
