@@ -10,6 +10,8 @@ textColor="#FFFFFF"
 font="monospace"
 """)
 
+st.write('Contents of the `.streamlit/config.toml` file of this app')
+
 
 
 st.header('المرجله تبي')
@@ -33,6 +35,7 @@ if benz2:
 if benz3:
      
      st.markdown("![Alt Text](https://media.giphy.com/media/AZ72S63Skv1306yyxQ/giphy.gif)")
+
 
 
 
