@@ -10,7 +10,7 @@ textColor="#FFFFFF"
 font="monospace"
 """)
 
-st.write('Contents of the `.streamlit/config.toml` file of this app')
+st.write('Contents of the `.streamlit1/config.toml` file of this app')
 
 
 
