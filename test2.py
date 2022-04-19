@@ -1,6 +1,10 @@
 import streamlit as st
 
 
+
+st.write('Contents of the `.streamlit/config.toml` file of this app')
+
+
 st.code("""
 [theme]
 primaryColor="#F39C12"
@@ -9,8 +13,6 @@ secondaryBackgroundColor="#AED6F1"
 textColor="#FFFFFF"
 font="monospace"
 """)
-
-st.write('Contents of the `.streamlit/config.toml` file of this app')
 
 
 
